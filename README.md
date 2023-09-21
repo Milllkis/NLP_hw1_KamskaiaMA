@@ -1,2 +1,2 @@
-# NLP_hw1_KamskaiaMA
-Sentiment Analysis при помощи словарей и множеств
+# NLP_homeworks_KamskaiaMA
+Hw1: Sentiment Analysis при помощи словарей и множеств
